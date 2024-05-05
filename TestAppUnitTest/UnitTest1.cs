@@ -25,4 +25,10 @@ public class CalculatorUnitTest
         Calculator c = new Calculator();
         Assert.AreEqual(1, c.Multiply(1, 1));
     }
+    [TestMethod("Divide two integers")]
+    public void DivideIntegers()
+    {
+        Calculator c = new Calculator();
+        Assert.AreEqual(2, c.Divide(1, 1));
+    }
 }

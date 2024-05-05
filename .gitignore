@@ -4,3 +4,6 @@
 
 /TestApp/obj
 /.vs/TestApp
+/TestApp/bin/Debug/net6.0
+/TestAppUnitTest/bin/Debug/net6.0
+/TestAppUnitTest/obj

@@ -8,3 +8,5 @@
 /TestAppUnitTest/bin
 /TestAppUnitTest/obj
 /.vs/ProjectEvaluation
+/TestAppAPI/bin/Debug/net6.0
+/TestAppAPI/obj

@@ -29,6 +29,6 @@ public class CalculatorUnitTest
     public void DivideIntegers()
     {
         Calculator c = new Calculator();
-        Assert.AreEqual(2, c.Divide(1, 1));
+        Assert.AreEqual(1, c.Divide(1, 1));
     }
 }

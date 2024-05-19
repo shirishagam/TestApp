@@ -13,6 +13,7 @@ public class CalculatorUnitTest
         Calculator c = new Calculator();
         Assert.AreEqual(2, c.Add(1, 1));
     }
+
     [TestMethod("Subtract two integers")]
     public void SubtractIntegers()
     {
